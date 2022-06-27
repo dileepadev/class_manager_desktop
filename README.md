@@ -74,7 +74,7 @@ Thanks to everyone who supported
 
 Dileepa Bandara  
 ©dileepabandara.dev  
-https://dileepabandara.github.io
+<https://dileepabandara.dev>
 
 ## 💬 Contact
 
